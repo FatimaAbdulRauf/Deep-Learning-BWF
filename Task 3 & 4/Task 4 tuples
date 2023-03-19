@@ -1,0 +1,8 @@
+menu = ("sandwich", "pasta", "burger", "salad")
+for m in menu:
+    print(m)
+#menu[0] = "fruit cake"
+menu = ("sandwich", "cake", "muffin", "salad")
+print("New menu includes: ")
+for n in menu:
+    print(n)

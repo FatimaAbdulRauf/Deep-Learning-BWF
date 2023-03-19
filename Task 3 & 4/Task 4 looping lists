@@ -1,0 +1,8 @@
+pizzas = ["pepperoni", "creamy garlic", "tikka", "fajita"]
+for i in pizzas:
+    print("I like", i, "pizza.")
+print("I love pizza!")
+animals = ["robin", "finch", "budgie"]
+for a in animals:
+    print(a.title(), "is an adorable bird!")
+print("These birds are all small and cute.")
