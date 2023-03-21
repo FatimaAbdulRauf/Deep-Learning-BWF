@@ -1,0 +1,11 @@
+s1= set(range(10))
+s2 = set(range(2,9))
+s3 = set("Fatima")
+s4 = {0,0,1,1,0,2,2,3,5,5,3}
+print("Unique data:",s4) 
+print("Union of two sets:",s1.union(s3)) 
+print("Intersection of two sets:", s1.intersection(s2))
+print("Intersection of two sets:", s4.intersection(s3))
+print("Difference between s1 and s2:", s1.difference(s2))
+print("Difference between s2 and s1:", s2.difference(s1))
+print("Symmetric difference between s1 and s2:",s1.symmetric_difference(s2))
