@@ -1,0 +1,3 @@
+In Python we can store data in variables, lists, dictionaries, tuples, etc.
+In Python we can use conditionals and have multiple iterations using loops.
+In Python we can use an object oriented approach with data as the main focus.
