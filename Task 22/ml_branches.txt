@@ -1,0 +1,25 @@
+4 branches of Machine Learning
+
+1. Supervised Learning: 
+learning to map input data to known targets (annotations)
+Examples: optical character recognition, speech recognition,
+image classification, and language translation
+Sequence generation: give picture- predict caption
+Syntax tree prediction: give sentence - predict decomposition
+Object detection: give picture - draw bounding box
+Image segmentation: give picture - draw pixel-level mask on Object
+
+2. Unsupervised Learning:
+finding transformations of input data without targets
+aim: data visualizations, data compression, data denoising,
+understanding correlations
+categories: dimensionality reduction, clustering
+
+3. Self-supervised Learning:
+learning without human-annotated labels
+use of heuristic algorithm: determines near-optimal solutions
+to an optimization problem
+
+4. Reinforcement Learning:
+agent receives information about its environment and learns to choose actions 
+that will maximize some reward
